@@ -8,3 +8,5 @@ fourth bug fixed.
 fifth bug fixed.
 
 fix message for pinkmode.
+
+another file added.
