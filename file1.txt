@@ -1,1 +1,3 @@
 this is my marketing section.
+
+another footer section added.
